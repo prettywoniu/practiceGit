@@ -1,14 +1,13 @@
 body {
     background-color: gray;
-    font-size: 40rem;
 }
 
 h1 {
     color: darkblue;
-    font-size: 20rem;
+    font-size: 8rem;
 }
 
 p {
     color:blueviolet;
-    font-size: 15rem;
+    font-size: 4rem;
 }
