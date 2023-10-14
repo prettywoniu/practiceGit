@@ -1,11 +1,14 @@
 body {
     background-color: gray;
+    font-size: 40rem;
 }
 
 h1 {
     color: darkblue;
+    font-size: 20rem;
 }
 
 p {
     color:blueviolet;
+    font-size: 15rem;
 }
